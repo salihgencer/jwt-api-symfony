@@ -10,12 +10,9 @@
 
 ### Built With
 
-* [Symfony](https://symfony.com/)
-* [Postgresql](https://www.postgresql.org/)
-* [Php](https://www.php.net/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+* [PHP](https://www.php.net/)
+* [Symfony 5](https://symfony.com/)
+* [PostgreSQL](https://www.postgresql.org/)
 
 
 <!-- GETTING STARTED -->
@@ -43,15 +40,8 @@ This is an example of how to list things you need to use the software and how to
    symfony server:start
    ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
 
 <!-- CONTACT -->
 ## Contact
 
 Salih Gencer - gencersalih@gmail.com
-
-<p align="right">(<a href="#top">back to top</a>)</p>
